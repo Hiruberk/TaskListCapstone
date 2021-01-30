@@ -24,5 +24,10 @@ namespace Task_List_Capstone
             this.Date = date;
             Status = false;
         }
+
+        public void MarkComplete()
+        {
+            Status = true;
+        }
     }
 }

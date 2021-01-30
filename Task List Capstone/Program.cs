@@ -28,7 +28,7 @@ namespace Task_List_Capstone
             while (true)
             {
                 Menu();
-                Console.Write("Select option: ");
+                Console.Write("Select an option: ");
                 string userInput = Console.ReadLine();
 
 
@@ -36,34 +36,41 @@ namespace Task_List_Capstone
                 {
                     taskList.ListTask();
                 }
+                else if(userInput == "2")
+                {
+                    Console.Write("Who's task is this? ");
+                    string member = Console.ReadLine();
 
+                    Console.Write("What is the task? ");
+                    string description = Console.ReadLine();
 
-                break;
+                    Console.Write("What is the due date (dd/mm/yyyy)? ");
+                    string date = Console.ReadLine();
 
-
-
-
-
-
-
-
-
-
-
-
+                    taskList.CreateTask(member, description, date);
+                }
+                else if (userInput == "3")
+                {
+                    taskList.RemoveTask();
+                }
+                else if(userInput == "4")
+                {
+                    taskList.MarkTask();
+                }
+                else if(userInput == "5")
+                {
+                    Console.WriteLine("Thank you for using TaskOrganizer5000, please like, comment & subscribe below.");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Please enter one of the options listed:");
+                }
             }
-
-
         }
-
-
-
-
-
-
-
-
-
+        /// <summary>
+        /// Displays the main menu
+        /// </summary>
         public static void Menu()
         {
             Console.WriteLine();
