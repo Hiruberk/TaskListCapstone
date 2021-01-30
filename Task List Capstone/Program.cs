@@ -31,7 +31,7 @@ namespace Task_List_Capstone
                 Console.Write("Select an option: ");
                 string userInput = Console.ReadLine();
 
-
+                //These if statements go through the menu and call out a method from the TaskList class depending on their option.
                 if(userInput == "1")
                 {
                     taskList.ListTask();
@@ -62,7 +62,7 @@ namespace Task_List_Capstone
                     Console.WriteLine("Thank you for using TaskOrganizer5000, please like, comment & subscribe below.");
                     break;
                 }
-                else
+                else//If they dont choose anything on the menu asks for them to try again.
                 {
                     Console.WriteLine("Please enter one of the options listed:");
                 }
