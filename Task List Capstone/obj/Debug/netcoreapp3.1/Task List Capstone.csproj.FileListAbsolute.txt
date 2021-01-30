@@ -1,0 +1,13 @@
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.exe
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.deps.json
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.runtimeconfig.json
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.runtimeconfig.dev.json
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.dll
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\bin\Debug\netcoreapp3.1\Task List Capstone.pdb
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.csprojAssemblyReference.cache
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.AssemblyInfoInputs.cache
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.AssemblyInfo.cs
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.csproj.CoreCompileInputs.cache
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.dll
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.pdb
+D:\Grand Circus\Grand Circus Docs\Projects\Task List Capstone\Task List Capstone\obj\Debug\netcoreapp3.1\Task List Capstone.genruntimeconfig.cache
